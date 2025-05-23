@@ -1,0 +1,16 @@
+# Força a linguagem C# para arquivos .cs
+*.cs linguist-language=C#
+
+# Força JSON para arquivos .json
+*.json linguist-language=JSON
+
+# Força HTML para arquivos .html
+*.html linguist-language=HTML
+
+# Se tiver arquivos .js, .css ou .ts no seu projeto:
+*.js linguist-language=JavaScript
+*.css linguist-language=CSS
+*.ts linguist-language=TypeScript
+
+# Garante que todos os arquivos do projeto sejam detectados normalmente
+* linguist-detectable=true
