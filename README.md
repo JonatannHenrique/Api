@@ -6,7 +6,7 @@ Este repositório contém uma API back-end desenvolvida em C#, utilizando ASP.NE
 
 🔹 Projeto criado no Visual Studio usando o template de API Web do ASP.NET Core
 
-🔹 A API recebe dados do front-end (repositório com nome My)
+🔹 A API recebe dados do front-end (repositório com nome (My))
 
 🔹 Utiliza Entity Framework Core para gerenciamento do banco de dados
 
