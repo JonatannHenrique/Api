@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "MinhaApi.Controllers.UsuariosController",
+    "ContainingType": "primeiraApi.Controllers.UsuariosController",
     "Method": "Post",
     "RelativePath": "api/Usuarios",
     "HttpMethod": "POST",
@@ -8,11 +8,21 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "Usuarios",
+        "Name": "usuario",
         "Type": "primeiraApi.Models.Usuarios",
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "primeiraApi.Controllers.UsuariosController",
+    "Method": "Get",
+    "RelativePath": "api/Usuarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

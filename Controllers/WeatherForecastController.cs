@@ -1,9 +1,10 @@
 using Microsoft.AspNetCore.Mvc;
-using MinhaApi.Data;
+using primeiraApi.Data;
 using primeiraApi.Models;
+using System.Collections.Generic;
+using System.Linq;
 
-
-namespace MinhaApi.Controllers
+namespace primeiraApi.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
@@ -15,12 +16,20 @@ namespace MinhaApi.Controllers
         {
             _context = context;
         }
+
         [HttpPost]
-        public IActionResult Post([FromBody] Usuarios Usuarios)
+        public IActionResult Post([FromBody] Usuarios usuario)
         {
-            _context.Usuarios.Add(Usuarios);
+            _context.Usuarios.Add(usuario);
             _context.SaveChanges();
-            return Ok(Usuarios);
+            return Ok(usuario);
+        }
+
+        [HttpGet]
+        public IActionResult Get()
+        {
+            var usuarios = _context.Usuarios.ToList();
+            return Ok(usuarios);
         }
     }
 }

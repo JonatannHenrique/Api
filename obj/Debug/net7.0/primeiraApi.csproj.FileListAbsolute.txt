@@ -34,3 +34,10 @@ C:\Users\luana\source\repos\primeiraApi\primeiraApi\obj\Debug\net7.0\refint\prim
 C:\Users\luana\source\repos\primeiraApi\primeiraApi\obj\Debug\net7.0\primeiraApi.pdb
 C:\Users\luana\source\repos\primeiraApi\primeiraApi\obj\Debug\net7.0\primeiraApi.genruntimeconfig.cache
 C:\Users\luana\source\repos\primeiraApi\primeiraApi\obj\Debug\net7.0\ref\primeiraApi.dll
+C:\Users\luana\source\repos\primeiraApi\primeiraApi\obj\Debug\net7.0\primeiraApi.sourcelink.json
+C:\Users\luana\source\repos\primeiraApi\primeiraApi\bin\Debug\net7.0\libman.json
+C:\Users\luana\source\repos\primeiraApi\primeiraApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\luana\source\repos\primeiraApi\primeiraApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luana\source\repos\primeiraApi\primeiraApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luana\source\repos\primeiraApi\primeiraApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\luana\source\repos\primeiraApi\primeiraApi\bin\Debug\net7.0\System.CodeDom.dll
