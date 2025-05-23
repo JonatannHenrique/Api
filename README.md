@@ -41,7 +41,7 @@ Copiar
 Editar
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Server=localhost;port=3300;user=root;password=SuaSenhaAqui;database=bancoteste;"
+    "DefaultConnection": "Server=localhost;port="Numero Da sua Porta";user=root;password=SuaSenhaAqui;database=bancoteste;"
   },
   "Logging": {
     "LogLevel": {
@@ -54,5 +54,6 @@ Editar
 }
 
 
-⚠️ Importante: Substitua "SuaSenhaAqui" pela sua senha real do MySQL.
+⚠️ Importante: Substitua "SuaSenhaAqui" pela sua senha real do MySQL & Seu LocalHost em Port
+
 
