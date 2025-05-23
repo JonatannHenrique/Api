@@ -52,5 +52,7 @@ Editar
   },
   "AllowedHosts": "*"
 }
+
+
 ⚠️ Importante: Substitua "SuaSenhaAqui" pela sua senha real do MySQL.
 
