@@ -1,4 +1,5 @@
 🚀 API BACK-END EM C#
+
 Este repositório contém uma API back-end desenvolvida em C#, utilizando ASP.NET Core Web API, conectada a um banco de dados MySQL, com estrutura pronta para comunicação com um front-end via requisições HTTP.
 
 📌 SOBRE O PROJETO
@@ -16,6 +17,7 @@ Este repositório contém uma API back-end desenvolvida em C#, utilizando ASP.NE
 🔹 Comunicação entre o site e a API feita por meio de chamadas HTTP REST
 
 🛠️ TECNOLOGIAS E PACOTES USADOS
+
 ✅ C# / .NET 7.0
 
 ✅ MySQL
@@ -33,6 +35,7 @@ Microsoft.EntityFrameworkCore.Design
 Microsoft.EntityFrameworkCore.Tools
 
 🔧 CONFIGURAÇÃO DO BANCO (appsettings.json)
+
 json
 Copiar
 Editar
