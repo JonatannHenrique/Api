@@ -2,6 +2,7 @@
 Este repositório contém uma API back-end desenvolvida em C#, utilizando ASP.NET Core Web API, conectada a um banco de dados MySQL, com estrutura pronta para comunicação com um front-end via requisições HTTP.
 
 📌 SOBRE O PROJETO
+
 🔹 Projeto criado no Visual Studio usando o template de API Web do ASP.NET Core
 
 🔹 A API recebe dados do front-end (repositório com nome My)
