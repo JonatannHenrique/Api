@@ -34,6 +34,10 @@ Microsoft.EntityFrameworkCore.Design
 
 Microsoft.EntityFrameworkCore.Tools
 
+Pomelo.EntityFrameworkCore.MySq
+
+Swashbuckle.AspNetCore
+
 🔧 CONFIGURAÇÃO DO BANCO (appsettings.json)
 
 json
